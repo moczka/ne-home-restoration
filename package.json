@@ -1,0 +1,29 @@
+{
+  "name": "ne-home-restoration",
+  "version": "1.0.0",
+  "description": "Codebase for all user facing components of NewEnglandHomeRestoration.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moczka/ne-home-restoration.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "html"
+  ],
+  "author": "Javier S. Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moczka/ne-home-restoration/issues"
+  },
+  "homepage": "https://github.com/moczka/ne-home-restoration#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
