@@ -22,20 +22,3 @@ html {
 
 .box-shadow {
   box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05); }
-
-.logo {
-  border-bottom: 2px solid #44695B; }
-  .logo-wrapper {
-    margin: 0 auto;
-    max-width: 300px; }
-  .logo-image {
-    display: block;
-    width: 100%;
-    height: auto; }
-
-/* OVERRIDES */
-.nav-link {
-  color: #44695B; }
-
-.nav.active {
-  font-weight: bold; }
